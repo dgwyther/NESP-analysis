@@ -1,5 +1,6 @@
 # temporary files, log files
 *.log
+notebooks/.ipynb_checkpoints/
 
 # big outputs
 *.nc
